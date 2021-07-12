@@ -1,0 +1,99 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+*type
+ENK = 1
+NEC = 2
+
+*tip
+NEAR = 1
+FAR = 2
+
+*direction
+Near End = 1
+
+*cardtype
+Cardtype (1,2,3,4,5,6,7) = 1,2,3,4,5,6,7
+
+*Freq_band
+f (1,2,3) = 1,2,3
+
+*polarization
+Horizontal = 1
+Vertical = 2
+
+*MODULATION
+
+512QAM(QO) = 512
+128QAM = 128
+256QAM(QO) = 256
+C-  PSK = 1
+
+
+
+
+=======
+*type
+ENK = 1
+NEC = 2
+
+*tip
+NEAR = 1
+FAR = 2
+
+*direction
+Near End = 1
+
+*cardtype
+Cardtype (1,2,3,4,5,6,7) = 1,2,3,4,5,6,7
+
+*Freq_band
+f (1,2,3) = 1,2,3
+
+*polarization
+Horizontal = 1
+Vertical = 2
+
+*MODULATION
+
+512QAM(QO) = 512
+128QAM = 128
+256QAM(QO) = 256
+C-  PSK = 1
+
+
+
+
+>>>>>>> cf01b4ef960cd9eb330d7cc8aa92f835f9975f85
+=======
+*type
+ENK = 1
+NEC = 2
+
+*tip
+NEAR = 1
+FAR = 2
+
+*direction
+Near End = 1
+
+*cardtype
+Cardtype (1,2,3,4,5,6,7) = 1,2,3,4,5,6,7
+
+*Freq_band
+f (1,2,3) = 1,2,3
+
+*polarization
+Horizontal = 1
+Vertical = 2
+
+*MODULATION
+
+512QAM(QO) = 512
+128QAM = 128
+256QAM(QO) = 256
+C-  PSK = 1
+
+
+
+
+>>>>>>> cf01b4ef960cd9eb330d7cc8aa92f835f9975f85
